@@ -15,7 +15,7 @@ An interactive **Power BI dashboard** analyzing hospital ER operations including
 -  **30-min treatment target compliance tracking**  
 -  **Multiple views**: Consolidated and takeaway insights  
 
----
+
 
 ##  Tools & Skills
 
@@ -24,7 +24,7 @@ An interactive **Power BI dashboard** analyzing hospital ER operations including
 - **Dashboard design and layout**  
 - **CSV data source**: `Hospital ER_Data.csv`
 
----
+
 
 ##  Files Included
 
@@ -32,7 +32,7 @@ An interactive **Power BI dashboard** analyzing hospital ER operations including
 - `Hospital ER_Data.csv` — Raw data used for analysis  
 - `Dashboard_preview.png`, `Consolidated_view.png`, `Key_Takeaways.png` — Dashboard screenshots and insights  
 
----
+
 
 ##  How to Run
 
@@ -40,7 +40,7 @@ An interactive **Power BI dashboard** analyzing hospital ER operations including
 2. Open it using **Power BI Desktop**  
 3. Interact with **slicers** and **tabs** to explore the dashboard  
 
----
+
 
 ##  Summary Insight
 
@@ -49,4 +49,4 @@ An interactive **Power BI dashboard** analyzing hospital ER operations including
 >  Majority seen within **30 minutes**  
 >  Most referrals came from **General Practice**
 
----
+
